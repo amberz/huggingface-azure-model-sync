@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "deploy-ui", "runtimeExecutable": "npm", "runtimeArgs": ["--prefix", "ui", "start"], "port": 8765, "url": "http://127.0.0.1:8765" }
+  ]
+}
